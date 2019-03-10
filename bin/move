@@ -20,3 +20,5 @@ def move(board, input, chara = "X")
   puts board
 end
 
+
+
